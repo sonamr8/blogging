@@ -1,0 +1,41 @@
+*{
+
+    box-sizing:border-box;
+   
+}
+
+.group:before,
+.group:after{
+    content:"";
+    display:table;
+
+}
+.group:after{
+    clear: both;
+}
+.group{
+    zoom:1;
+}
+
+.navbar{
+    background-color: #f7fbfd;
+   
+}
+
+
+/* Menu BAR*/
+.nav-bar{
+    width: 100%;
+    height: 50px;
+  
+   
+  
+    
+}
+
+.d-flex btn {
+    background-color: aliceblue;
+}
+.slide img{
+    height: 500px;
+}
