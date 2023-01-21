@@ -39,3 +39,50 @@
 .slide img{
     height: 500px;
 }
+
+
+/* Quick Links*/
+.quick-links h1, .quick-links p{
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.circle{
+    
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    border: 2px solid gray;
+    border-radius: 50%;
+    
+    text-align: center;
+    color: rgb(7, 2, 32);
+    padding :10px;
+    padding-top: 80px;
+    margin-right: 80px;
+    margin-left: 60px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    text-decoration: none;
+    background-color: #d3dbde;
+
+}
+
+.quick-links{
+    margin-top: 0;
+    border: 1px #bdd6de solid;
+    margin-bottom: 100px;
+    background-color: #e6f1f5;
+    padding: 50px;
+    margin-left: auto;
+    margin-right:auto ;
+
+}
+.circle:hover{
+    border:blue;
+    transform: translateY(-5px);
+    text-decoration: none;
+    color:#072461;
+}
+
