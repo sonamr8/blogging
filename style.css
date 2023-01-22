@@ -34,7 +34,7 @@
 }
 
 .d-flex btn {
-    background-color: aliceblue;
+    background-color: rgb(195, 218, 237)16, 165;
 }
 .slide img{
     height: 500px;
@@ -42,10 +42,16 @@
 
 
 /* Quick Links*/
+
+.quick-links{
+    background-color:rgb(107, 181, 242)16, 165;
+}
+
 .quick-links h1, .quick-links p{
     text-align: center;
     width: 50%;
     margin-left: 25%;
+    
 }
 
 .circle{
@@ -57,7 +63,7 @@
     border-radius: 50%;
     
     text-align: center;
-    color: rgb(7, 2, 32);
+    color: rgb(33, 8, 161);
     padding :10px;
     padding-top: 80px;
     margin-right: 80px;
@@ -72,9 +78,10 @@
 .quick-links{
     margin-top: 0;
     border: 1px #bdd6de solid;
-    margin-bottom: 100px;
+    margin-bottom:50px;
     background-color: #e6f1f5;
     padding: 50px;
+    padding-bottom:20px;
     margin-left: auto;
     margin-right:auto ;
 
