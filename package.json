@@ -1,0 +1,22 @@
+{
+  "name": "blogging_site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonamr8/blogging.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonamr8/blogging/issues"
+  },
+  "homepage": "https://github.com/sonamr8/blogging#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
