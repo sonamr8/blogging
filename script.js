@@ -75,3 +75,8 @@ if (alertTrigger) {
     alert('Thanks ! For the Signup')
   })
 }
+
+
+
+
+

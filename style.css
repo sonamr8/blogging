@@ -17,26 +17,23 @@
     zoom:1;
 }
 
+
+/* Menu BAR*/
 .navbar{
     background-color: #f7fbfd;
    
 }
 
-
-/* Menu BAR*/
-.nav-bar{
-    width: 100%;
-    height: 50px;
-  
-   
-  
-    
-}
-
 .d-flex btn {
     background-color: rgb(195, 218, 237)16, 165;
 }
+
+
+
+/*carousel*/
+
 .slide img{
+
     height: 500px;
 }
 
@@ -88,3 +85,15 @@
     color:#072461;
 }
 
+/* footer*/
+
+
+
+
+
+.terms{
+    vertical-align: middle;
+    padding-top:0;
+    padding-bottom: 0;
+    margin: 0;
+}
